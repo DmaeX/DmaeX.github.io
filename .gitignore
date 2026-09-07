@@ -4,3 +4,6 @@ node_modules
 packages
 dist/package-lock.json
 src/package-lock.json
+docs/AeroApp-iOS-1.2606-UserManual.pdf
+src/AeroApp-iOS-1.2606-UserManual.pdf
+
